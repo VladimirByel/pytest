@@ -1,4 +1,4 @@
-from pytest_proj.utils.arrs import my_slice, get
+from utils.arrs import my_slice, get
 
 
 def test_get():
